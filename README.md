@@ -1,0 +1,1 @@
+# Kaprekar_const_3digit
